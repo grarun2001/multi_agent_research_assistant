@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langgraph
+tavily-python
+python-dotenv
+streamlit
+pypdf
+fastapi
+uvicorn
+ragas
